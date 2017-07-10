@@ -1,0 +1,17 @@
+.container {
+
+ max-width: 400px;
+}
+
+div {
+
+ height:100%;     
+ font-family: 'arial', 'verdana';     
+ background: whitesmoke;     
+ width:100%; 
+}
+
+.btn {
+
+    max-height: 40px
+}
